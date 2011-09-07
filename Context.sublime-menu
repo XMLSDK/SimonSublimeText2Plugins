@@ -1,0 +1,4 @@
+[
+    { "command": "open_browser", "caption": "Open In Browser" },
+    { "command": "search_in_google", "caption": "Search In Google" }
+]
