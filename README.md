@@ -1,5 +1,5 @@
 # Installation
-1. Save files to <Sublime Text 2 Data Directory>/Packages/User/
+1. Save files to [Sublime Text 2 Data Directory]/Packages/User/
 2. Restart Sublime Text 2
 
 # LICENSE
